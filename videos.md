@@ -7,18 +7,23 @@ The software UI has changed, but the idea and the behavior is still the same!
 
 ### Tutorial on how to use M2Q with Ableton
 Introduction:
+
 [![](http://img.youtube.com/vi/MI_nu6UEXII/0.jpg)](http://www.youtube.com/watch?v=MI_nu6UEXII "M2Q aka Music2cue tech demo video")
 
 Configuration in Ableton:
+
 [![](http://img.youtube.com/vi/JvvY2k1__UY/0.jpg)](http://www.youtube.com/watch?v=JvvY2k1__UY "Configuration in Ableton")
 
-Configuration in Chamsys
+Configuration in Chamsys:
+
 [![](http://img.youtube.com/vi/Z5t92MslXus/0.jpg)](http://www.youtube.com/watch?v=Z5t92MslXus "Configuration in Chamsys")
 
-Triggering the Cue Stack Store
+Triggering the Cue Stack Store:
+
 [![](http://img.youtube.com/vi/xhHoLwzme5A/0.jpg)](http://www.youtube.com/watch?v=xhHoLwzme5A "Trigger cue stack store")
 
-Setting Fader Levels
+Setting Fader Levels:
+
 [![](http://img.youtube.com/vi/W2rUypwHxg8/0.jpg)](http://www.youtube.com/watch?v=W2rUypwHxg8 "Setting Fader Levels")
 
 
