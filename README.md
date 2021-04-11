@@ -1,8 +1,13 @@
-# M2Q - Control your Chamsys console via MIDI
+# Control your Chamsys console via MIDI
 
 M2Q is A powerful MIDI to Chamsys Remote converter designed to trigger playbacks, cue stacks and synchronize tap-to tempo using MIDI Messages
 
 It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a professional light designer who used this little box in his amazing shows, touring all over the world!
+
+## Check all the documentation pages:
+
+[Features](./features.md)
+[Videos](./videos.md)
 
 ## How It Works
 
@@ -35,45 +40,3 @@ For more details, check the [Features page](./features.md)
 
 
 
-
-[Test page](./test.md) 
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lorenzofattori/M2Q-hardware/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lorenzofattori/M2Q-hardware/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
