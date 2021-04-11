@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Using M2Q is very simple! By default, M2Q is configured to send Broadcast messages to all the consoles in the network, you can change this in the [Configuration Page](./webpage.md)
+Using M2Q is very simple! By default, M2Q is configured to send Broadcast messages to all the consoles in the network, you can change this in the [Configuration Page](./configuration.md)
 
 ### Set up Chamsys
 Before you start using M2Q, you have to configure your Chamsys console/PC (Note: Software needs to be unlocked in order to receive remote control messages!):
