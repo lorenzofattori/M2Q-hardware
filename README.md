@@ -8,6 +8,8 @@ It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a pr
 
 [Features](./features.md)
 
+[Quick Start Guide](./quickstart.md)
+
 [Videos](./videos.md)
 
 ## How It Works
