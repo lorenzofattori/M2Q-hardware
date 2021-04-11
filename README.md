@@ -15,7 +15,7 @@ It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a pr
 
 
 
-## [Main Features](./features.md) 
+## Main Features
 
 ### Triggering Playbacks
 Triggering Playbacks is used for remotely activate and switch cues inside a playback of MagicQ. This can be useful for real-time cue triggering without having to use Timecode.
@@ -29,7 +29,7 @@ Triggering The Stack Store is used for remotely activate/deactivate cue stacks i
 ### Tap2Tempo Trigger
 Tap2Tempo Trigger is used to synchronize a MIDI clock signal to the internal console global tempo (BPM) by remotely tap to the GO button of MagicQ. This can be useful for synchronizing Chamsys effects to MIDI Clock.
 
-
+For more details, check the [Features page](./features.md) 
 
 
 
