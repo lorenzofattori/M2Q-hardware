@@ -14,6 +14,22 @@ It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a pr
 - Just plug your midi interface, select it and start sending MIDI messages!
 
 
+## Main Features
+
+### Triggering Playbacks
+Triggering Playbacks is used for remotely activate and switch cues inside a playback of MagicQ. This can be useful for real-time cue triggering without having to use Timecode.
+
+### Changing Playback Level
+Changing Playback Level is used for remotely change level of a playback of MagicQ like moving the console faders Up/Down. This can be useful for real-time fades without having to use Timecode. Since the behaviour of the playback level can be changed in MagicQ, it is possible to use it for remotely changing Intensity, speed, size, etc.
+
+### Triggering The Stack Store
+Triggering The Stack Store is used for remotely activate/deactivate cue stacks inside the Stack Store of MagicQ. This can be useful for real-time cue flashing or activating chases having to use Timecode.
+
+### Tap2Tempo Trigger
+Tap2Tempo Trigger is used to synchronize a MIDI clock signal to the internal console global tempo (BPM) by remotely tap to the GO button of MagicQ. This can be useful for synchronizing Chamsys effects to MIDI Clock.
+
+
+
 
 
 ## Welcome to GitHub Pages
