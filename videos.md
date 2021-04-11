@@ -23,7 +23,7 @@ The software UI has changed, but the idea and the behavior is still the same!
 
 
 
-# Shows
+# Shows: M2Q in Action
 
 ### Noisia Outer Edges Tour
 
