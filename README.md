@@ -13,9 +13,9 @@ It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a pr
 - Works with both Chamsys consoles and MagicQ PC, software needs to be unlocked and only the first 10 playbacks are available in the PC version.
 - Just plug your midi interface, select it and start sending MIDI messages!
 
-[Test page](./test.md) 
 
-## Main Features
+
+## [Main Features](./features.md) 
 
 ### Triggering Playbacks
 Triggering Playbacks is used for remotely activate and switch cues inside a playback of MagicQ. This can be useful for real-time cue triggering without having to use Timecode.
@@ -30,6 +30,13 @@ Triggering The Stack Store is used for remotely activate/deactivate cue stacks i
 Tap2Tempo Trigger is used to synchronize a MIDI clock signal to the internal console global tempo (BPM) by remotely tap to the GO button of MagicQ. This can be useful for synchronizing Chamsys effects to MIDI Clock.
 
 
+
+
+
+
+
+
+[Test page](./test.md) 
 
 
 
