@@ -10,6 +10,8 @@ It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a pr
 
 [Quick Start Guide](./quickstart.md)
 
+[Configuration Webpage](./configuration.md)
+
 [Videos](./videos.md)
 
 ## How It Works
