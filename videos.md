@@ -29,6 +29,8 @@ The software UI has changed, but the idea and the behavior is still the same!
 
 [![](http://img.youtube.com/vi/vyNHTL5jbJQ/0.jpg)](http://www.youtube.com/watch?v=vyNHTL5jbJQ "NOISIA 'OUTER EDGES' - Rampage 2017")
 
+[![](http://img.youtube.com/vi/f7p55XchF0g/0.jpg)](http://www.youtube.com/watch?v=f7p55XchF0g "Noisia - Collider live")
+
 [![](http://img.youtube.com/vi/DEkcE0Rm7tk/0.jpg)](http://www.youtube.com/watch?v=DEkcE0Rm7tk "Behind Outer Edges - Episode 02: Manuel Rodrigues (Lighting Director)")
 
 Special thanks to Manuel Rodriguez for the amazing experience, it was mindblowing!
