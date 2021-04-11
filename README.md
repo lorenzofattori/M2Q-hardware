@@ -1,3 +1,9 @@
+# M2Q - Control your Chamsys console via MIDI
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lorenzofattori/M2Q-hardware/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
