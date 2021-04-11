@@ -1,5 +1,17 @@
 # M2Q - Control your Chamsys console via MIDI
 
+M2Q is A powerful MIDI to Chamsys Remote converter designed to trigger playbacks, cue stacks and synchronize tap-to tempo using MIDI Messages
+
+It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a professional light designer who used this little box in his amazing shows, touring all over the world!
+
+## How It Works
+
+- M2Q has a USB port, which acts as a USB-MIDI Interface, just connect it to any PC or MAC and it will appear as a MIDI device.
+- There is also an Ethernet port, which is connectected to the Chamsys console (or software)
+- M2Q Listens to MIDI Note, MIDI ControlChange and MIDI Clock messages being sent to the MIDI interface.
+- When one of these messages it's received, it gets processed and a Chamsys Remote message is sent out to the console.
+- Works with both Chamsys consoles and MagicQ PC, software needs to be unlocked and only the first 10 playbacks are available in the PC version.
+- Just plug your midi interface, select it and start sending MIDI messages!
 
 
 
