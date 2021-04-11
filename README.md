@@ -13,6 +13,7 @@ It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a pr
 - Works with both Chamsys consoles and MagicQ PC, software needs to be unlocked and only the first 10 playbacks are available in the PC version.
 - Just plug your midi interface, select it and start sending MIDI messages!
 
+[Test page](./test.md) 
 
 ## Main Features
 
