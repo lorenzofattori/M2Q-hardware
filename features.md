@@ -33,4 +33,4 @@ Tap2Tempo Trigger is used to synchronize a MIDI clock signal to the internal con
 
 ### Wing Mode
 
-When this option is selected, M2Q will trigger the playbacks from 11 to 25 instead of 1 to 25, in this way you can still use your first 10 playbacks manually and have the "automated" triggering on the first wing playbacks.
+When this option is selected, M2Q will trigger the playbacks from 11 to 15 instead of 1 to 15, in this way you can still use your first 10 playbacks manually and have the "automated" triggering on the first wing playbacks.
