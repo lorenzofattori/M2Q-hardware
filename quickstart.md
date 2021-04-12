@@ -5,6 +5,8 @@ Using M2Q is very simple! By default, M2Q is configured to send Broadcast messag
 ### Set up Chamsys
 Before you start using M2Q, you have to configure your Chamsys console/PC (Note: Software needs to be unlocked in order to receive remote control messages!):
 
+- Make sure your Chamsys Console and M2Q are on the same IP network range, by default M2Q is in the 2.x.x.x subnet.
+
 - Settings > Multi Console > Enable remote control and Enabler remote access: YES
 
 ![MultiConsole](./images/settings-multiconsole.png)
@@ -39,5 +41,11 @@ Before you start using M2Q, you have to configure your Chamsys console/PC (Note:
 ![LEDs](./images/startup%20led.jpg)
 
 4. Open yout MIDI software, M2Q will appear in your connected MIDI devices
+
+![MidiSettings](./images/ableton-midi-setup.png)
+
 5. Start sending MIDI messages 
+
+![AbletonPianoRoll](./images/ableton-pianoroll.png)
+
 6. M2Q will immediately start sending Chamsys Remote messages, Enjoy it!
