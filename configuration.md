@@ -64,3 +64,17 @@ The default value is OFF
 
 When this option is selected, M2Q will trigger the playbacks from 11 to 25 instead of 1 to 15, in this way you can still use your first 10 playbacks manually and have the "automated" triggering on the first wing playbacks.
 This functionalities does not work with MagicQ PC software, as playback control is limited to playback 1 to 10.
+
+
+## How to change M2Q Configuration
+
+1. Change Settings according to your preferences and immediately click on the appropriate change button
+2. Save Configuration in M2Q
+3. Reboot M2Q to activate the new settings
+
+
+
+
+## Looking for a webpage designer!
+
+As you can see I'm not an expert webpage developer! If you know how to program a sexy webpage and you are willing to help, contact me!
