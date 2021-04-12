@@ -75,6 +75,9 @@ This functionalities does not work with MagicQ PC software, as playback control 
 
 
 
+
+
+
 ## Looking for a webpage designer!
 
 As you can see I'm not an expert webpage developer! If you know how to program a sexy webpage and you are willing to help, contact me!
