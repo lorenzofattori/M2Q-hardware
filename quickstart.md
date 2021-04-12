@@ -15,13 +15,14 @@ Before you start using M2Q, you have to configure your Chamsys console/PC (Note:
 ### Connect M2Q
 
 1. Connect M2Q to the Console via Ethernet
-
-![](images/plug ethernet.jpg)
+![Ethernet](https://github.com/lorenzofattori/M2Q-hardware/blob/12e2f8f3ebb56a7601e1fe737224b1654a7ee4d7/images/plug%20ethernet.jpg)
 
 2. Connect M2Q to your PC/MAC via USB
-![USB](images/plug usb.jpg)
+![USB](https://github.com/lorenzofattori/M2Q-hardware/blob/f366c1067f6d2563835f77309c7bcc84dac741fc/images/plug%20usb.jpg)
+
 3. M2Q will power up, the 3 leds will flash in sequence
-![LEDs](./images/startup led.jpg)
+![LEDs](https://github.com/lorenzofattori/M2Q-hardware/blob/f366c1067f6d2563835f77309c7bcc84dac741fc/images/startup%20led.jpg)
+
 4. Open yout MIDI software, M2Q will appear in your connected MIDI devices
 5. Start sending MIDI messages 
 6. M2Q will immediately start sending Chamsys Remote messages, Enjoy it!
