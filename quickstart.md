@@ -16,7 +16,7 @@ Before you start using M2Q, you have to configure your Chamsys console/PC (Note:
 
 1. Connect M2Q to the Console via Ethernet
 
-![Ethernet](https://github.com/lorenzofattori/M2Q-hardware/blob/12e2f8f3ebb56a7601e1fe737224b1654a7ee4d7/images/plug%20ethernet.jpg)
+![Ethernet](/images/plug%20ethernet.jpg)
 
 2. Connect M2Q to your PC/MAC via USB
 
