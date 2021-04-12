@@ -15,6 +15,12 @@ Yes, first of all you need to unlock the software (ouf of demo mode) by connecti
 Then, when using MagicQ software, only the first 10 playbacks can be controlled remotely, so M2Q will only control those 10 playbacks and wing mode will not work. Morer info [here](https://secure.chamsys.co.uk/help/documentation/magicq/rpc.html)
 
 
+### I want control Chamsys with an external MIDI device, can I do it with M2Q?
+Yes, M2Q accepts any standard MIDI message, no matter if it's software or hardware. In order to do that, you need a software that "bridges" the connection between the external MIDI device and M2Q. **You can't connect M2Q USB cable directly to a MIDI device**
+In Mac OSX, just use the built-in MIDI Studion to route the MIDI messages between the devices.
+On Windows, you can use [LoopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html).
+
+
 ### Is M2Q software open source?
 No, the software in the M2Q microcontroller is not open soruce. I spent hundreds of hours working and refining the project and I never got paid for it.
 By selling M2Q hardware on [Tindie](https://www.tindie.com/stores/lorenzofattori/) I hope I will make various light designers happy and be able to repay a bit the effort I put in this project.
