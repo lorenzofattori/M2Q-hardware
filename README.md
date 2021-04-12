@@ -12,6 +12,8 @@ It has been designed by me, based on an idea of Manuel Rodriguez. Manuel is a pr
 
 [Configuration Webpage](./configuration.md)
 
+[FAQs]((./faq.md)
+
 [Videos](./videos.md)
 
 ## How It Works
