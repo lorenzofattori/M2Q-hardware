@@ -20,11 +20,11 @@ Before you start using M2Q, you have to configure your Chamsys console/PC (Note:
 
 2. Connect M2Q to your PC/MAC via USB
 
-![USB](https://github.com/lorenzofattori/M2Q-hardware/blob/f366c1067f6d2563835f77309c7bcc84dac741fc/images/plug%20usb.jpg)
+![USB](./images/plug%20usb.jpg)
 
 3. M2Q will power up, the 3 leds will flash in sequence
 
-![LEDs](https://github.com/lorenzofattori/M2Q-hardware/blob/f366c1067f6d2563835f77309c7bcc84dac741fc/images/startup%20led.jpg)
+![LEDs](./images/startup%20led.jpg)
 
 4. Open yout MIDI software, M2Q will appear in your connected MIDI devices
 5. Start sending MIDI messages 
