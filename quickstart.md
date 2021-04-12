@@ -6,11 +6,23 @@ Using M2Q is very simple! By default, M2Q is configured to send Broadcast messag
 Before you start using M2Q, you have to configure your Chamsys console/PC (Note: Software needs to be unlocked in order to receive remote control messages!):
 
 - Settings > Multi Console > Enable remote control and Enabler remote access: YES
-- Settings > Network > Chamsys remote protocol: Chamsys Rem (TX+RX no header)
+
+![MultiConsole](./images/settings-multiconsole.png)
+
+- Settings > Network > Ethernet remote protocol: Chamsys Rem (TX+RX no header)
 - Settings > Network > Playback sync port: must be the same of M2Q (default 6553)
+
+![Network](./images/settings-network.png)
+
 - Settings > Ports > Remote trigger type: Make + Break
 - Settings > Ports > Remote trigger action: Tap to time sel PB
+
+![Ports](./images/settings-ports.png)
+
 - Settings > Playback > Crossfade button function: Global Tap to time
+
+![Playback](./images/settings-playback.png)
+
 
 ### Connect M2Q
 
