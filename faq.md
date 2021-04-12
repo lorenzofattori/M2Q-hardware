@@ -12,7 +12,7 @@ Currently, it has been tested with the following Consoles:
 
 ### Are there any limitations when using M2Q with MagicQ software?
 Yes, first of all you need to unlock the software (ouf of demo mode) by connecting chamsys hardware to the PC/MAC. More info [here](https://secure.chamsys.co.uk/help/documentation/magicq/pc.html#_magicq_pc_mac_restrictions)
-Then, when using MagicQ software, only the first 10 playbacks can be controlled remotely, so M2Q will only control those 10 playbacks and wing mode will not work. Morer info [here](https://secure.chamsys.co.uk/help/documentation/magicq/rpc.html)
+Then, when using MagicQ software, only the first 10 playbacks can be controlled remotely, so M2Q will only control those 10 playbacks and wing mode will not work. More info [here](https://secure.chamsys.co.uk/help/documentation/magicq/rpc.html)
 
 
 ### I want control Chamsys with an external MIDI device, can I do it with M2Q?
