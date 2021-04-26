@@ -27,7 +27,7 @@ M2Q is available at my [Tindie Store](https://www.tindie.com/products/23305/)
 - M2Q Listens to MIDI Note, MIDI ControlChange and MIDI Clock messages being sent to the MIDI interface.
 - When one of these messages it's received, it gets processed and a Chamsys Remote message is sent out to the console.
 - Works with both Chamsys consoles and MagicQ PC, software needs to be unlocked and only the first 10 playbacks are available in the PC version.
-- Just plug your midi interface, select it and start sending MIDI messages!
+- Just plug your midi interface, select M2Q in your MIDI software, and start sending MIDI messages!
 
 
 
