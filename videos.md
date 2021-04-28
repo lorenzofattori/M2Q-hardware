@@ -5,6 +5,9 @@
 The software UI has changed, but the idea and the behavior is still the same!
 [![](http://img.youtube.com/vi/MZnM7Q2pJAw/0.jpg)](http://www.youtube.com/watch?v=MZnM7Q2pJAw "M2Q aka Music2Que overview")
 
+## M2Q Changing Chamsys Global Tempo with MIDI Beat Clock
+[![](http://img.youtube.com/vi/bgk8-C5XAb4/0.jpg)](http://www.youtube.com/watch?v=bgk8-C5XAb4 "M2Q Changing Chamsys Global Tempo with MIDI Beat Clock")
+
 ## Tutorial on how to use M2Q with Ableton
 ### Introduction:
 [![](http://img.youtube.com/vi/MI_nu6UEXII/0.jpg)](http://www.youtube.com/watch?v=MI_nu6UEXII "M2Q aka Music2cue tech demo video")
