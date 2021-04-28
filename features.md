@@ -31,6 +31,8 @@ Tap2Tempo Trigger is used to synchronize a MIDI clock signal to the internal con
 - The Global Tempo will now follow the MIDI Clock signal (same BPM)
 - Note: The remote trigger needs to be set up as Tap to time sel PB.
 
+[![](http://img.youtube.com/vi/bgk8-C5XAb4/0.jpg)](http://www.youtube.com/watch?v=bgk8-C5XAb4 "M2Q Changing Chamsys Global Tempo with MIDI Beat Clock")
+
 ### Wing Mode
 
 When this option is selected, M2Q will trigger the playbacks from 11 to 25 instead of 1 to 15, in this way you can still use your first 10 playbacks manually and have the "automated" triggering on the first wing playbacks.
