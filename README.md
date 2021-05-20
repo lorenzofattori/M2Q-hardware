@@ -9,7 +9,7 @@ It has been engineerd by me, based on an idea and concept of Manuel Rodriguez. M
 M2Q is available at my [Tindie Store](https://www.tindie.com/products/23305/)
 
 Store update May 2021: M2Q is currently out of stock because DHL decided to not deliver my PCB package and sign the delivery for me. What a horrible service!
-As soon as pieced will be in, I will prepare some stock!
+As soon as pieced will be in, I will prepare some stock! If you are interested in M2Q, please sign in for the waiting list so I can plan stock better!
 
 ## Check all the documentation pages:
 
