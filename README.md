@@ -1,6 +1,6 @@
 # Control your Chamsys console via MIDI
 
-![M2Q Hardware](https://github.com/lorenzofattori/M2Q-hardware/blob/main/images/20210702_114011.jpg)
+![M2Q Hardware](https://github.com/lorenzofattori/M2Q-hardware/raw/main/images/20210702_114011.jpg)
 
 M2Q is A powerful MIDI to Chamsys Remote converter designed to trigger playbacks, cue stacks and synchronize tap-to tempo using MIDI Messages
 
