@@ -6,9 +6,7 @@ M2Q is A powerful MIDI to Chamsys Remote converter designed to trigger playbacks
 
 It has been engineerd by me, based on an idea and concept of Manuel Rodriguez. Manuel is a professional light designer who used this little box in his amazing shows, touring all over the world! You can find more about his amazing work [here](http://www.deepred.tv/).
 
-M2Q is available at my [Tindie Store](https://www.tindie.com/products/23305/)
-
-Store update July 2021: Very limited quantity available at the moment.
+M2Q is available at my [Tindie Store](https://www.tindie.com/products/23305/) - update July 2021: Very limited quantity available at the moment.
 
 ## Check all the documentation pages:
 
